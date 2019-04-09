@@ -21,3 +21,9 @@ Personal home page and blog: [mericsson.com](https://mericsson.com). Static site
 Current status: 
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/fe53cda8-1134-4116-8c99-c89b05af6c3f/deploy-status)](https://app.netlify.com/sites/mericsson-com/deploys)
+
+## Blog Post Ideas:
+
+1. Personal finance after having children.
+1. Making JIRA palatable.
+
