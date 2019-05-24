@@ -108,7 +108,7 @@ class Footer extends React.Component {
             </div>
             <div className="footer-col footer-col-3">
               <p>
-                Experienced SaaS Engineer. Currently seeking Software Engineering and Salesforce consulting work in the Bay Area. This site is <a href="https://github.com/mericsson/mericsson-com">open source</a>.
+                Experienced SaaS Engineer. Love good debates, scaling engineering systems, and making customers successful! This site is <a href="https://github.com/mericsson/mericsson-com">open source</a>.
               </p>
             </div>
           </div>
