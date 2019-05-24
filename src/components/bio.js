@@ -45,7 +45,7 @@ function Bio() {
 
     <div className="home">
       <div className="about">
-        Experienced SaaS Engineer. Currently seeking Software Engineering and Salesforce consulting work in the Bay Area.
+        Experienced SaaS Engineer. Love good debates, scaling engineering systems, and making customers successful!
       </div>
       <h1 className="page-heading">Work</h1>
       <ul>
