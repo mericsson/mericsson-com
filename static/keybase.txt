@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/mericsson
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://mericsson.com
+  * I am mericsson (https://keybase.io/mericsson) on keybase.
+  * I have a public key ASAv4QO3S_jNfYkIQ8RRVSmWpQPNdU25BY4_BNXW00MOHAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010156c50f5cc2ec25dbf408644339a6841ef18b4d337568b2bcd2d4b374db4d9ab60a",
+      "host": "keybase.io",
+      "kid": "01202fe103b74bf8cd7d890843c451552996a503cd754db9058e3f04d5d6d3430e1c0a",
+      "uid": "f9bc4d66881e0ce189ab93f3a5a66600",
+      "username": "mericsson"
+    },
+    "merkle_root": {
+      "ctime": 1580535529,
+      "hash": "12554ca4be3f4804de76f150b7910579d70bdd02e9116b2d4bd93b6148a1048cc4ced9f1e2d3391429cd71137b5c9bbc71e7ed6748e006f57f2f7d04e2c3c888",
+      "hash_meta": "83be6ee98d3a5c330e17b860f865286d6ae5aa056061099d77ad5f40eccf9e65",
+      "seqno": 14444894
+    },
+    "service": {
+      "entropy": "wQDPmAP7whKnZVesVLZ4U7Xo",
+      "hostname": "mericsson.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.2.0"
+  },
+  "ctime": 1580535546,
+  "expire_in": 504576000,
+  "prev": "a450062841766b91ee76538f9595272245e08aa08324ffd6fd6c485f46c13f9c",
+  "seqno": 31,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgL+EDt0v4zX2JCEPEUVUplqUDzXVNuQWOPwTV1tNDDhwKp3BheWxvYWTESpcCH8QgpFAGKEF2a5HudlOPlZUnIkXgiqCDJP/W/WxIX0bBP5zEIBkWK+8v2gcQCf14l9spUmfPOC/y/ebPzrymByDvWqT6AgHCo3NpZ8RAGJjuaSHcYTDibr8zOSZTeBBOdeEJXWy9zDCGHzTMN5K6odCidq1eAjk17T1gTXaLZyY8hTh1yrGg/9H1JEqIBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIM7+M+pETLqnLzZTZP2SujKUtwCUB/Rr0Pnc2PJ28+CAo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mericsson
+
+==================================================================
