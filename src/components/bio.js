@@ -3,6 +3,10 @@ import React from "react"
 function Bio() {
 
   const projects = [{
+    url: 'https://segment.com',
+    name: 'Segment',
+    description: 'Eng Manager - Integrations.'
+  },{
     url: 'https://mixmax.com',
     name: 'Mixmax',
     description: 'Tech lead for Integrations team.'
