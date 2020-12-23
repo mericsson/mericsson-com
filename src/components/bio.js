@@ -49,7 +49,7 @@ function Bio() {
 
     <div className="home">
       <div className="about">
-        Experienced SaaS Engineer. Love good debates, scaling systems, and making customers successful!
+        Experienced SaaS Engineer & Manager. Love scaling systems and making customers successful!
       </div>
       <h1 className="page-heading">Work</h1>
       <ul>
