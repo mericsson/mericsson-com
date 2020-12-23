@@ -26,4 +26,4 @@ Common itemized deductions are:
 2. Mortgage Interest
 3. Charitable contributions
 
-If these are above the standard deduction ($24,800 in 2020) then you are likely itemizing your deductions. Additional contributions to charity should help reduce taxable income. If you don't know where to donate right away I highly recommend a charitable fund like [Schwab Charitable](https://www.schwabcharitable.org/). Also, if possible, donate stock that has high capital gains as opposed to donating cash. This is a tax advantaged approach as the entire contribution is 
+If these are above the standard deduction ($24,800 in 2020) then you are likely itemizing your deductions. Additional contributions to charity should help reduce taxable income. If you don't know where to donate right away I highly recommend a charitable fund like [Schwab Charitable](https://www.schwabcharitable.org/). Also, if possible, donate stock that has high capital gains as opposed to donating cash. This is a tax advantaged approach as the full market value counts as a charitable contribution (the cost basis does not matter in this case). No capital gains is applied.
