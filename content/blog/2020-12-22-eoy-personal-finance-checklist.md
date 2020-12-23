@@ -12,7 +12,7 @@ Every year there are a number of end of year activities to consider. They are ir
 
 ## [ ] Tax Loss Harvesting
 
-Sell stock and fund holdings that have capital losses to take offset capital gains or take advantage of [$3k offset to ordinary income](https://www.fidelity.com/viewpoints/personal-finance/tax-loss-harvesting). Note: losses carry over year to year indefinitely and can be applied to future gains.
+Sell stock and fund holdings that have capital losses to offset capital gains or take advantage of [$3k offset to ordinary income](https://www.fidelity.com/viewpoints/personal-finance/tax-loss-harvesting). Note: losses in excess of $3k carry over year to year indefinitely and can be applied to future gains.
 
 ## [ ] Capture gains in children's UTMA / UGMA accounts
 
