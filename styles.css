@@ -206,4 +206,8 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
         background-color: black;
         color: white;
     }
+
+    /** Code formatting */
+    pre, code { background-color: #112; }
+
 }
