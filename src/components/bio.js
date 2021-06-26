@@ -29,7 +29,7 @@ function Bio() {
 
     <div className="home">
       <div className="about">
-        Software Engineer & Manager
+        Software Engineer & Manager.
       </div>
       <h1 className="page-heading">Work</h1>
       <ul>
