@@ -14,26 +14,6 @@ function Bio() {
     url: 'https://salesforce.com',
     name: 'Salesforce',
     description: 'Lead engineer on Community Cloud, Chatter.'
-  }, {
-    url: 'https://zenbox.co',
-    name: 'Zenbox',
-    description: 'Email tool for helping you get to zero inbox.'
-  }, {
-    url: 'https://schuquette.com',
-    name: 'Schuquette',
-    description: 'Professional recipe management.'
-  }, {
-    url: 'https://www.amazon.com/dp/B0727V7DZW/ref=sr_1_1?s=digital-skills&ie=UTF8&qid=1494348421&sr=1-1',
-    name: 'Tweet Bot',
-    description: 'Alexa skill for composing tweets.'
-  }, {
-    url: 'https://appexchange.salesforce.com/appxListingDetail?listingId=a0N30000004cSsOEAU',
-    name: 'Chatter Delete Blocker',
-    description: 'Manage who can delete Salesforce Chatter data.'
-  }, {
-    url: 'https://github.com/mixmaxhq/search-string',
-    name: 'Search String',
-    description: 'Open source JS package for parsing search strings.'
   }];
   const projectLinks = projects
     .map(project => {
@@ -49,7 +29,7 @@ function Bio() {
 
     <div className="home">
       <div className="about">
-        Experienced SaaS Engineer & Manager. Love scaling systems and making customers successful!
+        Software Engineer & Manager
       </div>
       <h1 className="page-heading">Work</h1>
       <ul>
