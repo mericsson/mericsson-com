@@ -20,7 +20,7 @@ class BlogPostTemplate extends React.Component {
             <h1 className="post-title">{post.frontmatter.title}</h1>
             <p className="post-meta">
               <time dateTime={post.frontmatter.date} itemProp="datePublished">
-                {post.frontmatter.date}
+                Last updated {post.frontmatter.date}
               </time>
             </p>
           </header>
