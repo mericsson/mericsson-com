@@ -1,6 +1,6 @@
 ---
 title: EOY Personal Finance Checklist
-date: 2020-12-22T12:00:00.000Z
+date: 2021-12-29T12:00:00.000Z
 path: /eoy-personal-finance-checklist
 ---
 
@@ -16,7 +16,7 @@ Sell stock and fund holdings that have capital losses to offset capital gains or
 
 ## [ ] Capture gains in children's UTMA / UGMA accounts
 
-In 2020, first $1050 of gains is tax free and next $1050 is tax advantaged [source](https://www.troweprice.com/personal-investing/accounts/general-investing/ugma-utma.html).
+In 2021, first $110 of gains is tax free and next $1100 is tax advantaged [source](https://www.nolo.com/legal-encyclopedia/kiddie-tax-limits-shifting-unearned-30003.html).
 
 ## [ ] Consider extra donations if itemizing deductions
 
