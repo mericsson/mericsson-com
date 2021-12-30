@@ -10,6 +10,8 @@ Among the many traditions of the holidays, one has to be navigating our complex 
 
 Every year there are a number of end of year activities to consider. They are irregular (as they happen annual) and complex. So they warrant a checklist to remember what should be considered. This is written for myself but sharing publicly if helpful for others.
 
+For additional context, see my [Personal Finance Advice post](/2019-04-08-personal-investment-advice/).
+
 ## [ ] Tax Loss Harvesting
 
 Sell stock and fund holdings that have capital losses to offset capital gains or take advantage of [$3k offset to ordinary income](https://www.fidelity.com/viewpoints/personal-finance/tax-loss-harvesting). Note: losses in excess of $3k carry over year to year indefinitely and can be applied to future gains.
