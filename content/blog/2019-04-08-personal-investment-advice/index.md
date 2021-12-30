@@ -1,6 +1,6 @@
 ---
 title: Personal Investment Advice
-date: 2019-04-08T12:00:00.000Z
+date: 2021-12-29T12:00:00.000Z
 path: /personal-investment-advice/
 ---
 
@@ -18,6 +18,10 @@ The most famous (and my favorite) low cost investment vehicles are Index Mutual 
 
 ## Tax Efficiency
 
+### HSA
+
+If you have access to HSA, I suggest maxing it out. It is easier than ever to buy things with HSA (e.g. Amazon.com HSA filter) I suspect it will be the 'retirement account of the future'.
+
 ### 401k 
 
 Max it out if you have means to do so. At our age, put all the money into the stock market. I prefer a 60% domestic and 40% international ratio. I periodically rebalance to it to match that. I choose whichever index funds my 401k provider offer that have the lowest expense ratio.
@@ -25,6 +29,24 @@ Max it out if you have means to do so. At our age, put all the money into the st
 ### Roth IRA
 
 If you qualify, max this out as well. Post taxed income can be contributed and it grows tax free until retirement. If you earn up to $122,000 you qualify for a full contribution, otherwise $122,000–$137,000 offers partial contribution.
+
+### Backdoor Roth IRA
+
+It seems a bit strange, but this is a great investment vehicle that if you have excess funds you should take advantage of. Schwab and Vanguard both have good support for it to make it very easy to do.
+
+Beware: if you have any traditional IRAs (perhaps rolled over from an old employer 401k) you may not want to take this strategy. As soon as you do the rollover, you have to pay taxes on any gains across all your Traditional IRAs.
+
+### Mega Backdoor Roth IRA
+
+Some employers support in-plan Roth IRA conversions. This is harder to set up than regular Backdoor Roth IRA but you can put more into this. Again, same tax implications apply if you have any Traditional IRAs.
+
+### UTMA / UGMA
+
+If you have children, Vanguard / Schwab make it easy to open UTMA accounts on their behalf. Through these accounts, $1100 income / capital gains per year is tax free and next $1100 is in a low tax bracket.
+
+### 529
+
+If you have children, 529 can be a good vehicle to save on taxes. [New York's Plan](https://www.nysaves.org/) offers Vanguard funds which are efficient. Note: once money is transferred via 529 it should be used for educational purposes.
 
 ## Asset Allocation
 
@@ -46,11 +68,16 @@ I generally have not seen Target Retirement funds with expense ratios quite as g
 Given all that, here are a quick few steps to get investments in order:
 
 1. Ensure 401k is invested properly in stock index funds.
-2. After ensure you have enough cash available, move the rest (in a [time averaged way](https://en.wikipedia.org/wiki/Dollar_cost_averaging)) into low cost Index Funds (or their ETF counterparts). Allocation is up to you and your risk profile, but here is a potential allocation described below:
+2. Evaluate tax advantaged vehicles (HSA, Roth IRA).
+3. Consider tax advantaged children accounts (UTMA, 529).
+4. After ensure you have enough cash available, move the rest (in a [time averaged way](https://en.wikipedia.org/wiki/Dollar_cost_averaging)) into low cost Index Funds (or their ETF counterparts). Allocation is up to you and your risk profile, but here is a potential allocation described below:
 
 ```
 60% Vanguard Total Stock Market 
 30% Vanguard Total International Stock Market
 10% Vanguard Short-Term Bond Index Fund
 ```
-  
+
+---
+
+For more reading, see also my [year end summary checklist](/2020-12-22-eoy-personal-finance-checklist).
