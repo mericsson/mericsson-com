@@ -25,5 +25,6 @@ Current status:
 ## Blog Post Ideas:
 
 1. Personal finance after having children.
-1. Making JIRA palatable.
+2. Making JIRA palatable.
+3. Beware of ISOs.
 
