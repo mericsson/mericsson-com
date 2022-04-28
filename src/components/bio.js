@@ -26,11 +26,19 @@ const projects = [{
 const favorites = [{
   url: 'https://themanagershandbook.com/',
   name: 'The Manager\'s Handbook',
-  description: 'Guide to engineering management from Clearbit\'s CEO'
+  description: 'Guide to engineering management from Clearbit\'s CEO.'
 }, {
   url: 'https://staffeng.com/book',
   name: 'Staff Engineer by Will Larson',
-  description: 'Guide to understanding and being a great Staff+ engineer'
+  description: 'Guide to understanding and being a great Staff+ engineer.'
+}, {
+  url: 'https://www.oreilly.com/library/view/the-managers-path/9781491973882/',
+  name: 'The Manager\'s Path by Camille Fournier',
+  description: 'Prescriptive guide to all roles from intern to VP Eng.'
+}, {
+  url: 'https://randsinrepose.com/archives/category/management/',
+  name: 'Rands in Repose - Management',
+  description: 'Entertaining and enlightening stories from the trenches. Also in book form (Managing Humans and The Art of Leadership - Small Things Done Well.'
 }]
 
 function Bio() {
