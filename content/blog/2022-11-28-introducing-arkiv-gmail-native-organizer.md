@@ -6,7 +6,7 @@ path: /introducing-arkiv-gmail-native-organizer
 
 Third time's the charm!
 
-I'm very excited to share my third attempt at a GMail Organizer. My second attempt, launched as [zenbox.co beta](https://mericsson.com/2017-03-22-zenbox-beta/) worked well but, like any garden, required attention to keep it healthy. Over time it fell into disrepair.
+I'm very excited to share my third attempt at a GMail Organizer. My second attempt, launched as [zenbox.co beta](/2017-03-22-zenbox-beta/) worked well but, like any garden, required attention to keep it healthy. Over time it fell into disrepair.
 
 Still, my quest for Inbox Zero continued. When I learned about Google Apps Scripts I was intrigued. Could I write a clone of my previous attempts at a GMail Organizer completely native in GMail with no servers, no external dependencies, no security concerns?
 
