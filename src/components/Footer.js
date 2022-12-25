@@ -107,15 +107,15 @@ class Footer extends React.Component {
                   </a>
                 </li>
                 <li>
-                  <a href="https://mastodon.social/@mericsson" target="_blank">
-                    <span className="icon icon--mastodon">{mastodon}</span>
-                    <span className="username">mastodon.social/@mericsson</span>
-                  </a>
-                </li>
-                <li>
                   <a href="https://www.linkedin.com/in/mericsson1" target="_blank">
                     <span className="icon icon--linkedin">{linkedin}</span>
                     <span className="username">mericsson1</span>
+                  </a>
+                </li>
+                <li>
+                  <a href="https://mastodon.social/@mericsson" target="_blank">
+                    <span className="icon icon--mastodon">{mastodon}</span>
+                    <span className="username">mastodon.social/@mericsson</span>
                   </a>
                 </li>
               </ul>
