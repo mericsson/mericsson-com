@@ -25,7 +25,8 @@ Current status:
 ## Blog Post Ideas:
 
 1. Personal finance after having children.
-2. Making JIRA palatable.
-3. Beware of ISOs.
-4. GROW doc template and best practices.
+1. Making JIRA palatable.
+1. Beware of ISOs.
+1. GROW doc template and best practices.
+1. Why all startups should adopt simple 10-year extended exercise window.
 
