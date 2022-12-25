@@ -101,19 +101,19 @@ class Footer extends React.Component {
             <div className="footer-col footer-col-2">
               <ul className="social-media-list">
                 <li>
-                  <a href="https://github.com/mericsson" target="_new">
+                  <a href="https://github.com/mericsson" target="_blank">
                     <span className="icon icon--github">{github}</span>
                     <span className="username">mericsson</span>
                   </a>
                 </li>
                 <li>
-                  <a href="https://mastodon.social/@mericsson" target="_new">
+                  <a href="https://mastodon.social/@mericsson" target="_blank">
                     <span className="icon icon--mastodon">{mastodon}</span>
                     <span className="username">mastodon.social/@mericsson</span>
                   </a>
                 </li>
                 <li>
-                  <a href="https://www.linkedin.com/in/mericsson1" target="_new">
+                  <a href="https://www.linkedin.com/in/mericsson1" target="_blank">
                     <span className="icon icon--linkedin">{linkedin}</span>
                     <span className="username">mericsson1</span>
                   </a>
