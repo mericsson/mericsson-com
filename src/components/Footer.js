@@ -58,6 +58,7 @@ class Footer extends React.Component {
         />
       </svg>
     );
+    /*
     const twitter = (
       <svg
         viewBox="0 0 16 16"
@@ -73,6 +74,7 @@ class Footer extends React.Component {
         />
       </svg>
     );
+    */
 
     return (
       <footer className="site-footer">
@@ -99,25 +101,19 @@ class Footer extends React.Component {
             <div className="footer-col footer-col-2">
               <ul className="social-media-list">
                 <li>
-                  <a href="https://github.com/mericsson">
+                  <a href="https://github.com/mericsson" target="_new">
                     <span className="icon icon--github">{github}</span>
                     <span className="username">mericsson</span>
                   </a>
                 </li>
                 <li>
-                  <a href="https://twitter.com/mericsson">
-                    <span className="icon icon--twitter">{twitter}</span>
-                    <span className="username">mericsson</span>
-                  </a>
-                </li>
-                <li>
-                  <a href="https://mastodon.social/@mericsson">
+                  <a href="https://mastodon.social/@mericsson" target="_new">
                     <span className="icon icon--mastodon">{mastodon}</span>
                     <span className="username">mastodon.social/@mericsson</span>
                   </a>
                 </li>
                 <li>
-                  <a href="https://www.linkedin.com/in/mericsson1">
+                  <a href="https://www.linkedin.com/in/mericsson1" target="_new">
                     <span className="icon icon--linkedin">{linkedin}</span>
                     <span className="username">mericsson1</span>
                   </a>
