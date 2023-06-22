@@ -113,11 +113,6 @@ class Footer extends React.Component {
                   </a>
                 </li>
                 <li>
-                  <a href="https://mastodon.social/@mericsson" target="_blank" title="Mastodon profile">
-                    <span className="icon icon--mastodon">{mastodon}</span>
-                    <span className="username">mastodon.social/@mericsson</span>
-                  </a>
-                </li>
               </ul>
             </div>
             <div className="footer-col footer-col-3">
