@@ -82,7 +82,6 @@ class Footer extends React.Component {
                     <span className="username">mericsson1</span>
                   </a>
                 </li>
-                <li>
               </ul>
             </div>
             <div className="footer-col footer-col-3">
