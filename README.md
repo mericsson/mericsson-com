@@ -29,4 +29,5 @@ Current status:
 1. Beware of ISOs.
 1. GROW doc template and best practices.
 1. Why all startups should adopt simple 10-year extended exercise window.
+1. Slack best practices -- Manager's IDE
 
