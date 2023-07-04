@@ -12,7 +12,7 @@ function makeLink(project) {
 const projects = [{
   url: 'https://segment.com',
   name: 'Twilio Segment',
-  description: 'Director of Engineering for Integrations. Previously Staff engineer.'
+  description: 'Director - Data Collection & Activation'
 },{
   url: 'https://mixmax.com',
   name: 'Mixmax',
