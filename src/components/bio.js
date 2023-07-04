@@ -38,7 +38,7 @@ const favorites = [{
 }, {
   url: 'https://randsinrepose.com/archives/category/management/',
   name: 'Rands in Repose - Management',
-  description: 'Entertaining and enlightening stories from the trenches. Also in book form (Managing Humans and The Art of Leadership - Small Things Done Well.'
+  description: 'Entertaining and enlightening stories from the trenches. Also in book form: Managing Humans and The Art of Leadership - Small Things Done Well.'
 }]
 
 function Bio() {
