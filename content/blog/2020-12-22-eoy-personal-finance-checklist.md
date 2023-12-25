@@ -1,6 +1,6 @@
 ---
 title: EOY Personal Finance Checklist
-date: 2021-12-29T12:00:00.000Z
+date: 2023-12-25T12:00:00.000Z
 path: /eoy-personal-finance-checklist
 ---
 
@@ -29,3 +29,7 @@ Common itemized deductions are:
 3. Charitable contributions
 
 If these are above the standard deduction ($24,800 in 2020) then you are likely itemizing your deductions. Additional contributions to charity should help reduce taxable income. If you don't know where to donate right away I highly recommend a charitable fund like [Schwab Charitable](https://www.schwabcharitable.org/). Also, if possible, donate stock that has high capital gains as opposed to donating cash. This is a tax advantaged approach as the full market value counts as a charitable contribution (the cost basis does not matter in this case). No capital gains is applied.
+
+## [ ] Updating your 401k contributions
+
+If you your company offers matching contributions, consider the contribution percent carefully as it is possible over-fund early which limits the matching over the course of the year.
