@@ -18,7 +18,7 @@ Sell stock and fund holdings that have capital losses to offset capital gains or
 
 ## Capture gains in children's UTMA / UGMA accounts
 
-In 2021, first $1100 of gains is tax free and next $1100 is tax advantaged [source](https://www.nolo.com/legal-encyclopedia/kiddie-tax-limits-shifting-unearned-30003.html).
+In 2021, first $1250 of gains is tax free (and don't need to file taxes) and next $1250 is tax advantaged [source](https://www.nolo.com/legal-encyclopedia/kiddie-tax-limits-shifting-unearned-30003.html).
 
 ## Consider extra donations if itemizing deductions
 
