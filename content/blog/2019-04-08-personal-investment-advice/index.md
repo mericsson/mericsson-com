@@ -4,7 +4,7 @@ date: 2021-12-29T12:00:00.000Z
 path: /personal-investment-advice/
 ---
 
-A friend recently asked me for advice on how to get started with investing their money. Here is a quick writeup I shared with him. Welcome any feedback at [@mericsson](https://twitter.com/mericsson).
+A friend recently asked me for advice on how to get started with investing their money. Here is a quick writeup I shared with him.
 
 ---
 
