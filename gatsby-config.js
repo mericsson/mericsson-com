@@ -4,9 +4,6 @@ module.exports = {
     author: `Marcus Ericsson`,
     description: `Marcus Ericsson personal website.`,
     siteUrl: `https://mericsson.com`,
-    social: {
-      twitter: `mericsson`,
-    },
   },
   plugins: [
     {
