@@ -12,7 +12,7 @@ Every year there are a number of end of year activities to consider. They are ir
 
 For additional context, see my [Personal Finance Advice post](/2019-04-08-personal-investment-advice/).
 
-## Spend FA
+## Spend FSA
 
 Spend Health Care FSA and/or Dependent Care FSA as these are use-it-or-lose-it.
 
