@@ -1,6 +1,6 @@
 ---
 title: EOY Personal Finance Checklist
-date: 2023-12-25T12:00:00.000Z
+date: 2025-04-13T12:00:00.000Z
 path: /eoy-personal-finance-checklist
 ---
 
@@ -11,6 +11,10 @@ Among the many traditions of the holidays, one has to be navigating our complex 
 Every year there are a number of end of year activities to consider. They are irregular (as they happen annual) and complex. So they warrant a checklist to remember what should be considered. This is written for myself but sharing publicly if helpful for others.
 
 For additional context, see my [Personal Finance Advice post](/2019-04-08-personal-investment-advice/).
+
+## Spend FA
+
+Spend Health Care FSA and/or Dependent Care FSA as these are use-it-or-lose-it.
 
 ## Tax Loss Harvesting
 
