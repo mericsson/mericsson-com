@@ -11,6 +11,7 @@ class Header extends React.Component {
             <span className="site-title">Marcus Ericsson</span>
           </Link>
         </div>
+        <a rel="me" href="https://theforkiverse.com/@mericsson">Mastodon</a>
       </header>
     );
   }
