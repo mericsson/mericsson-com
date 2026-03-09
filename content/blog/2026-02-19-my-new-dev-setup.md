@@ -6,7 +6,7 @@ path: /developing-on-a-droplet-with-claude-via-iphone/
 
 I've been running a new development setup for a few weeks now and it's changed how I think about what a "dev environment" even needs to be.
 
-The setup: a Digital Ocean droplet, the [pi agent framework](https://github.com/badlogic/pi-mono), and Claude Code on my iPhone via the [Moshi](https://apps.apple.com/us/app/moshi-voice-assistant/id6449892695) app. That's it. No laptop required.
+The setup: a Digital Ocean droplet, the [pi agent framework](https://github.com/badlogic/pi-mono), and Claude Code on my iPhone via the [Moshi](https://getmoshi.app/) app. That's it. No laptop required.
 
 ## The Droplet
 
